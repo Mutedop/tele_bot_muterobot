@@ -1,1 +1,1 @@
-web: python muterobot.py
+worker: python muterobot.py
